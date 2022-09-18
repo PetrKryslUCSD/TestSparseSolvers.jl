@@ -1,0 +1,12 @@
+name = "TestSparseSolvers"
+uuid = "924a63e9-f2d1-4f9f-bbdc-b71b2c173c28"
+authors = ["Petr Krysl <pkrysl@ucsd.edu>"]
+version = "0.1.0"
+
+[deps]
+DataDrop = "aa547a04-dd37-49ab-8e73-656744f8a8fc"
+MKL = "33e6dc65-8f57-5167-99aa-e5a354878fb2"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Sparspak = "e56a9233-b9d6-4f03-8d0f-1825330902ac"
+SymRCM = "286e6d88-80af-4590-acc9-0001b223b9bd"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
